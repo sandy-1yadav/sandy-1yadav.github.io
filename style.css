@@ -1,12 +1,21 @@
-  <style>
+
             h1{
-                color:red;  
-                background: yellow;
+                color:black;  
+                background:grey;
                 
             }
             #first{
-                color:hotpink;
-                background:red;
+                color:black;
+                background:grey;
             }
-            
-    </style>
+body{
+    background:lightblue;
+}
+#box{
+    background:bisque;
+    width:700px;
+    margin:30px auto;
+    padding:20px;
+    
+}
+  
